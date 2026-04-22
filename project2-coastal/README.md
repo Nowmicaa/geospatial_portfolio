@@ -1,1 +1,1 @@
-# Project 1 - Coastal Shoreline Change Detection
+# Project 2 - Coastal Shoreline Change Detection
